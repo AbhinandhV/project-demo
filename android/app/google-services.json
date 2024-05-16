@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223602560874",
+    "project_id": "lenshouse-9606e",
+    "storage_bucket": "lenshouse-9606e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223602560874:android:11e76742240c391f51df13",
+        "android_client_info": {
+          "package_name": "com.user.lens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8rc741368wN827_IO7yuj2_230x-Q6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
